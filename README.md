@@ -10,4 +10,6 @@ If you mentioned *Contributor Experience Project* in your presentation and would
 
 | Event | Date | Speaker(s) | Presentation title | Shared resources |
 |:----- |:---- |:-------- |:------------ |:--- |
+| PyData Berlin 2022 | 2023-05-18 | Noa Tamir | Contributor Experience Leads | [Slide deck](https://github.com/noatamir/Talks/blob/master/PyDataBer2022-ContributorExperienceLeads.pdf) |
+| EuroSciPy 2022 | 2022-08-31 | Noa Tamir | What is Contributor Experience? | [Slide deck](https://github.com/noatamir/Talks/blob/master/EuroSciPy2022_WhatIsContributorExprience.pdf) |
 | FOSDEM 2023 | 2023-02-05 | Inessa Pawson | Contributor Experience 201 | [Slide deck](https://github.com/contributor-experience/presentations/blob/main/FOSDEM23-InessaPawson.pdf) |
